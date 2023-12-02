@@ -1,16 +1,24 @@
-### Hi there 👋
+![White Minimalist Profile LinkedIn Banner](https://github.com/moniquejesus/moniquejesus/assets/22297602/e5c8534d-ef02-40da-8707-1f3b9055fcc1)
 
-<!--
-**moniquejesus/moniquejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá visitante 👋! 
 
-Here are some ideas to get you started:
+#### Muito prazer, eu sou Monique Jesus e por aqui você encontra o meu portfólio de repositórios! 💾 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-🖥️ Analista de Sistema apaixonada por várias tecnologias
+
+-👨🏻‍🎓 Atualmente estou me desafiando no mundo da Segurança da Informação e Computação em Nuvem
+
+
+
+
+###Current Stack 👨🏾‍💻
+
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+
+
+### Contato
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
