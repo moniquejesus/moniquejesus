@@ -1,8 +1,7 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/moniquejesus/moniquejesus/assets/22297602/e5c8534d-ef02-40da-8707-1f3b9055fcc1)
 
-# 👩🏻‍💻Monique Jesus
 ### Olá visitante 👋!
-**`Estudante de Engenharia da Computação`**
+**👩🏻‍💻`Estudante de Engenharia da Computação`**
 
 #### Me chamo Monique Jesus, sou natural de São Luís-MA e atualmente resido em São José dos Campos-SP. Sou apaixonada por tecnologia e por aqui você encontra alguns repositórios de projetos que realizei.
  
