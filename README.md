@@ -28,6 +28,7 @@
 <!--
 
  ---
+ 
 
  ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> Um fato/ citação famosa:
  <a href="https://github.com/marketplace/actions/quote-readme">
