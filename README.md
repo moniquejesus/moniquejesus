@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <a href="mailto:monique.cfjesus@gmail.com">
-<img src="https://custom-icon-badges.demolab.com/badge/-monique.cfjesus@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=monique.cfjesus@gmail.com&logoColor=white" />
 
 
 
