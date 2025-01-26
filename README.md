@@ -1,5 +1,11 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/moniquejesus/moniquejesus/assets/22297602/e5c8534d-ef02-40da-8707-1f3b9055fcc1)
 
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ### Olá visitante! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />!
 ####  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> `Estudante de Engenharia da Computação`
 
