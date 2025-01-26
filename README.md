@@ -1,6 +1,3 @@
-![White Minimalist Profile LinkedIn Banner](https://github.com/moniquejesus/moniquejesus/assets/22297602/e5c8534d-ef02-40da-8707-1f3b9055fcc1)
-
-
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
