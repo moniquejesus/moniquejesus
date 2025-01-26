@@ -7,7 +7,6 @@
 &nbsp;
 
 ### Olá visitante! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-&nbsp;
 ####  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> `Estudante de Engenharia da Computação`
 
 #### Me chamo Monique Jesus, sou natural de São Luís-MA e atualmente resido em São José dos Campos-SP. Sou apaixonada por tecnologia e por aqui você encontra alguns repositórios de projetos que realizei.
